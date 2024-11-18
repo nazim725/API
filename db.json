@@ -1,0 +1,70 @@
+{
+  "post":[
+     {
+      "id": 1,
+      "name": "Dr. Sarwat Afrina (Ruma)",
+      "Designation": "Sonologist, Ultrasound ",
+      "description": "Dr. Sarwat Afrina (Ruma) is a renowned Sonologist, Ultrasound and Anomaly Scan Specialist specialist in Dhaka. Dr. Sarwat Afrina (Ruma) is currently working as Consultant Sonologist in Aalok Health Care Ltd. Dr. Sarwat Afrina (Ruma) has completed MBBS, MSc (Australia), FCGP, CMU, DMU. She has also completed Advanced Training on TVS, Fetal Echo Anomaly Scan, Paediatric Ultrasound Musculoskeletal Ultrasound, Duplex Doppler, Infertility & Gynae Ultrasound from Dhaka, Mumbai, Channai, Delhi and Gujarat. The chamber address of Dr. Sarwat Afrina (Ruma) is: Aalok Health Care Ltd Main Branch, Mirpur 10, Dhaka.",
+      "email": "drsarwatafrina@gmail.com",
+      "img": "https://lh3.googleusercontent.com/-np1x9IS6jeI/YWnnTA9wjUI/AAAAAAAACVo/Ib3A595X_AgQIR2BE8eqmMOnFwnm8gXywCLcBGAsYHQ/s1600/1634330441282390-0.png",
+      "address": " Aalok Health Care Ltd, Pallabi Branch, Pallabi, Mirpur 11 1/2 Bus stand, Mirpur, Dhaka",
+      "phone": " 01892696007",
+      "fee": 1200
+    },
+    {
+      "id": 2,
+      "name": "Dr. Mamun Mostafi",
+      "Designation": "Medicine & Nephrology",
+      "description": "Professor Brig Gen(Rtd.) Dr. Mamun Mostafi is a renowned Medicine & Nephrology Specialist in Dhaka. Professor Brig Gen(Rtd.) Dr. Mamun Mostafi is working as Director & Head of Nephrology, Bangladesh Specialized Hospital, Shamoli, Dhaka. Professor Brig Gen(Rtd.) Dr. Mamun Mostafi has completed MBBS, MACP, MRACP, FCPS, FRCP. The chamber address of Professor Brig Gen(Rtd.) Dr. Mamun Mostafi is: Bangladesh Specialized Hospital, located in 21 Mirpur Rd, Dhaka 1207",
+      "email": "mamun@gmail.com",
+      "img": "https://1.bp.blogspot.com/-DYDMZzj0X-M/YVISjVVFpxI/AAAAAAAACIk/y3L6gOrSCAwsBZIXoJTZ1JrgupumqsUOwCLcBGAsYHQ/s0/Dr.%2BMamun%2BMostafi.jpg",
+      "address": " Bangladesh Specialized Hospital, 21 Mirpur Rd, Dhaka 1207, For Serial (Call 10633)",
+      "phone": " 01816216173",
+      "fee": 1500
+    },
+    {
+      "id": 3,
+      "name": "Dr. Kanij Fatema",
+      "Designation": "Paediatric Neurologist ",
+      "description": "Dr. Kanij Fatema is a renowned doctor who is Paediatric Neurologist and Developmental Paediatrician in Dhaka. Dr. Kanij Fatema is working as Associate Professor, Department of  Pediatric Neurology, Bangabandhu Sheikh Mujib Medical University. Dr. Kanij Fatema has completed MBBS, FCPS(Pediatrics), FCPS(Pediatric Neurology and Development). The chamber address of Dr. Kanij Fatema is: Ibn Sina Diagnostic & Imaging Center, Dhanmondi, located in House 48, Road 9/A, Dhanmondi, Dhaka 1209",
+      "email": "mamun@gmail.com",
+      "img": "https://1.bp.blogspot.com/-2Wta-nZ0EI0/YUm4BjmPl5I/AAAAAAAACAE/AJzTyAD3tNItxM1k7Gl7QGYUW5f_1A8PgCLcBGAsYHQ/s0/download.jpg",
+      "address": " Ibn Sina Diagnostic & Imaging Center, Dhanmondi, House 48, Road 9/A, Dhanmondi, Dhaka 1209, 6.00pm - 9.00pm",
+      "phone": " 01816216173",
+      "fee": 1000
+    },
+    {
+      "id": 4,
+      "name": "Dr. Shahnaz Sigma",
+      "Designation": "Gynecology & Obstetrics",
+      "description": "Dr. Shahnaz Sigma is a renowned female doctor who is a Gynecology & Obstetrics Specialist in Dhaka. Dr. Shahnaz Sigma is working as Gynecology & Obstetrics Specialist in Kurmitola General Hospital, Dhaka. Dr. Shahnaz Sigma has completed MBBS, FCPS (OBGYN). The chamber address of Dr. Shahnaz Sigma is: Aalok Health Care located in Rajanigandha Tower, Kachukhet, Dhaka",
+      "email": "mamun@gmail.com",
+      "img": "https://1.bp.blogspot.com/-KYr1vj_-jPE/YQQV_NjgmyI/AAAAAAAABVA/dv_zUZENvOEbzcVNmDO3N8bUAKcBX_DrQCPcBGAYYCw/s320/IMG_ORG_1627657532941.jpeg",
+      "address": "Aalok Health Care, Kachukhet, Rajanigandha Tower, Kachukhet, Dhaka, 5pm to 7pm (Closed: Friday)",
+      "phone": " 01725694669",
+      "fee": 2000
+    },
+    {
+      "id": 5,
+      "name": "Dr. Rahat Afza Chowdhury",
+      "Designation": "Gynecology & Obstetrics",
+      "description": "Dr. Rahat Afza Chowdhury is a renowned female doctor who is a Gynecology & Obstetrics Specialist and Surgeon in Dhaka. Dr. Rahat Afza Chowdhury is currently working as Associate Consultant, Dept of Obs and Gynae, BRB Hospitals Limited, Dhaka. Dr. Rahat Afza Chowdhury has completed MBBS, FCPS (Obs & Gyne). The chamber address of Dr. Rahat Afza Chowdhury is: BRB Hospitals limited, located in 77/A, Panthapath, Dhaka 1205.",
+      "email": "rahat232@gmail.com",
+      "img": "https://1.bp.blogspot.com/-8MM-RkkOl8w/YUdD27nOs2I/AAAAAAAAB84/yNb8HEDybLsuWe5G7OxVH4dk6VJxQUPjwCLcBGAsYHQ/s0/Screenshot_1.png",
+      "address": "BRB Hospitals limited, 77/A, Panthapath, Dhaka 1205, 08:00:am To 04:00:pm",
+      "phone": " 01725694669",
+      "fee": 2500
+    },
+    {
+      "id": 6,
+      "name": "Dr Habibur Tl Rahman",
+      "Designation": "Chiropractor in Pain ",
+      "description": "Dr Habibur TlRahman is a renowned Chiropractor in Dhaka who is Neuro-Musculoskeletal System specialist. Dr Habibur TlRahman is working as Chiropractor in Pain Care Chiropractic Centre. Dr Habibur Tl Rahman has, DMF (BMDC- D- 18589), COMT (Kolkata), Diversified Osteopathic & Chiropractic Method- Spine (Mumbai), Fellow in Osteopath (India), Fellow in Osteopath (Australia), as degrees. The chamber address of Dr Habibur TlRahman is: House#5, Road#3, Block-B, Nobodoy Housing Society, Mohammadpur, Dhaka-1207.",
+      "email": "habib@gmail.com",
+      "img": "https://1.bp.blogspot.com/-e3sZqOrCbZQ/YQLyiA0FlfI/AAAAAAAABUA/4bcTcxqZi2YjgT-ma9Nn2tj9Nr_AHQfGwCLcBGAsYHQ/s320/JPEG_20200914_212836_2742362671341245912%2B-%2BDr%2BHabibur%2BRahman.jpg",
+      "address": "House#5, Road#3, Block-B, Nobodoy Housing Society, Mohammadpur, Dhaka-1207",
+      "phone": " 01725694669",
+      "fee": 2200
+    }
+  ]
+}
